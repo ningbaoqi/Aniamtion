@@ -1,6 +1,6 @@
 ### 帧动画
 ![image](https://github.com/ningbaoqi/Aniamtion/blob/master/gif/frameanimation.gif)
-### 补间动画简介
+### 补间动画
 
 |动画类型|说明|
 |------|------|
@@ -14,3 +14,6 @@
 
 ##### 使用Xml方式实现补间动画
 ![image](https://github.com/ningbaoqi/Aniamtion/blob/master/gif/xmltween.gif)
+
+##### 使用Java方式实现补间动画
+![image](https://github.com/ningbaoqi/Aniamtion/blob/master/gif/xmltween2.gif)
