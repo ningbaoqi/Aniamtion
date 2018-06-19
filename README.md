@@ -70,3 +70,6 @@
 ### 转场动画
 ##### 分解
 ![image](https://github.com/ningbaoqi/Aniamtion/blob/master/gif/tra1.gif)
+
+##### 滑动进入
+![image](https://github.com/ningbaoqi/Aniamtion/blob/master/gif/tra2.gif)
