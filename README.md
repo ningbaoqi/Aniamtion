@@ -79,4 +79,5 @@
 
 ##### 共享元素动画
 + 共享元素控件的属性android:transitionName="bn1"必须一致；
+
 ![image](https://github.com/ningbaoqi/Aniamtion/blob/master/gif/tra4.gif)
