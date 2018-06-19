@@ -35,3 +35,25 @@
 |`AccelerateDecelerateInterpolator`|在动画开始、结束的地方改变速度较慢，在中间的时候加速|
 |`CycleInterpolator`|动画循环播放特定的次数，变化速度按正弦曲线改变|
 |`DecelerateInterpolator`|在动画开始的地方改变速度较快，然后开始减速|
+
+
+### 属性动画简介
+
++ 属性动画： `Animator`代表一个属性动画，但它只是一个抽象类，通常会使用它的子类：`AnimatorSet`、`ValueAnimator`、`ObjectAnimator`、`TimeAnimator`；
+
+##### 补间动画与属性动画的区别
+
+|属性动画与补间动画的区别|
+|------|
+|属性动画：改变了动画效果，并且改变原来的控件的位置|
+|补间动画：只是改变了动画效果，但是原来的控件的位置是没有改变的|
+
+##### 使用XML实现属性动画
+
+```
+定义属性动画的XML资源文件能以如下三个元素中的任意一个作为根元素：
+    <set.../>   它是一个父元素，用于包含`<objectAnimator.../>`、`<animator.../>`或`<set.../>`子元素，该元素定义的资源代表AnimatorSet对象
+    <objectAnimator.../>  用于定义ObjectAnimator动画
+    <animator.../>   用于定义ValueAnimator动画
+```
+![image](https://github.com/ningbaoqi/Aniamtion/blob/master/gif/prop1.gif)
