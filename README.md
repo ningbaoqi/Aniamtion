@@ -66,3 +66,7 @@
 
 ### 过渡动画
 ![image](https://github.com/ningbaoqi/Aniamtion/blob/master/gif/go.gif)
+
+### 转场动画
+##### 分解
+![image](https://github.com/ningbaoqi/Aniamtion/blob/master/gif/tra1.gif)
