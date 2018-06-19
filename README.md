@@ -57,3 +57,6 @@
     <animator.../>   用于定义ValueAnimator动画
 ```
 ![image](https://github.com/ningbaoqi/Aniamtion/blob/master/gif/prop1.gif)
+
+##### 使用Java实现属性动画
+![image](https://github.com/ningbaoqi/Aniamtion/blob/master/gif/prop2.gif)
