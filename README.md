@@ -21,5 +21,17 @@
 ##### 使用自定义方式实现补间动画
 ![image](https://github.com/ningbaoqi/Aniamtion/blob/master/gif/xmltween3.gif)
 
-###布局动画
+### 布局动画
 ![image](https://github.com/ningbaoqi/Aniamtion/blob/master/gif/layoutanimation.gif)
+
+### 插补器简介
+
++ `插补器Interpolator`；为了控制在动画期间需要动态补入多少帧，具体在动画巡行的哪些时刻补入帧，需要借助于`Interpolator`，简单的说，`Interpolator`负责控制动画的变化速度；
+
+|Android为Interpolator提供了如下几个实现类，分别用于实现不同的动画变化速度|说明|
+|------|------|
+|`LinearInterpolator`|动画以均匀的速度变化|
+|`AccelerateInterpolator`|在动画开始的地方改变速度较慢，然后开始加速|
+|`AccelerateDecelerateInterpolator`|在动画开始、结束的地方改变速度较慢，在中间的时候加速|
+|`CycleInterpolator`|动画循环播放特定的次数，变化速度按正弦曲线改变|
+|`DecelerateInterpolator`|在动画开始的地方改变速度较快，然后开始减速|
