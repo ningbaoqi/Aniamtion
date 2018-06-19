@@ -63,3 +63,6 @@
 
 ##### 炫酷的属性动画
 ![image](https://github.com/ningbaoqi/Aniamtion/blob/master/gif/p1.gif)
+
+### 过渡动画
+![image](https://github.com/ningbaoqi/Aniamtion/blob/master/gif/go.gif)
