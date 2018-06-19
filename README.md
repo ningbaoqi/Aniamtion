@@ -60,3 +60,6 @@
 
 ##### 使用Java实现属性动画
 ![image](https://github.com/ningbaoqi/Aniamtion/blob/master/gif/prop2.gif)
+
+##### 炫酷的属性动画
+![image](https://github.com/ningbaoqi/Aniamtion/blob/master/gif/p1.gif)
