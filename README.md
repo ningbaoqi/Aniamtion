@@ -73,3 +73,6 @@
 
 ##### 滑动进入
 ![image](https://github.com/ningbaoqi/Aniamtion/blob/master/gif/tra2.gif)
+
+##### 淡入淡出
+![image](https://github.com/ningbaoqi/Aniamtion/blob/master/gif/tra3.gif)
