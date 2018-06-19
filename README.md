@@ -20,3 +20,6 @@
 
 ##### 使用自定义方式实现补间动画
 ![image](https://github.com/ningbaoqi/Aniamtion/blob/master/gif/xmltween3.gif)
+
+###布局动画
+![image](https://github.com/ningbaoqi/Aniamtion/blob/master/gif/layoutanimation.gif)
